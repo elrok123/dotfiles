@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/conner/projects/meet-frontend-v2/src/components/organisms/VideoChat'
+let g:netrw_dirhist_8='/Users/conner/projects/meet-frontend-v2/src/components/VideoSpeaker'
+let g:netrw_dirhist_7='/Users/conner/projects/meet-frontend-v2/src/stores/communicationProviders'
+let g:netrw_dirhist_6='/Users/conner/projects/meet-frontend-v2/src/components/organisms/Checks/DevicePermissionsCheck'
+let g:netrw_dirhist_5='/Users/conner/projects/meet-backend-old/config/deploy/k8s/ingress'
+let g:netrw_dirhist_4='/Users/conner/projects/meet-frontend-v2'
+let g:netrw_dirhist_3='/Users/conner/projects/meet-frontend-v2/next'
+let g:netrw_dirhist_2='/Users/conner/projects/meet-frontend-v2'
+let g:netrw_dirhist_1='/Users/conner/projects/cmt-backend/app/services/gitlab_service'
+let g:netrw_dirhist_0='/Users/conner/projects'
